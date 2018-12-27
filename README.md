@@ -1,5 +1,7 @@
 # SwiftyCompanion
-Educational project of UNIT Factory (School 42)
+Educational project of UNIT Factory (School 42).
+
+Written programmatically.
 
 ## Download and launch
 ```text
