@@ -2,7 +2,7 @@
 Educational project of UNIT Factory (School 42)
 
 ## Download and launch
-```bash
+```shell
 git clone https://github.com/rnaumenk/SwiftyCompanion.git
 ...
 cd SwiftyCompanion
